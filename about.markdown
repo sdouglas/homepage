@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="images/sd.png" style="display: block; margin: auto;" />
+<img src="https://github.com/sdouglas/homepage/blob/main/images/sd.png?raw=true" style="display: block; margin: auto;" />
 
 Past mentors:
 - [George Church](https://arep.med.harvard.edu/)
