@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="images/sd.png" style="display: block; margin: auto;" />
+
 Past mentors:
 - [George Church](https://arep.med.harvard.edu/)
 - [William Shih](https://www.shih.hms.harvard.edu/)
