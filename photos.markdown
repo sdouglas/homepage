@@ -6,6 +6,6 @@ permalink: /photos/
 
 <img src="https://github.com/sdouglas/homepage/blob/main/images/origami.jpg?raw=true" style="display: block; margin: auto;" />
 
-
-
+<p style="text-align: center;">
 [flickr photostream](http://www.flickr.com/photos/58004717@N06/sets/)
+</p>
